@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>qjdev.Qiniu</id>
+    <version>6.0.2</version>
+    <authors>qinjin</authors>
+    <owners>fengrui</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/fengrui358/csharp-sdk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>七牛云存储CSharpSDK</description>
+    <releaseNotes>七牛云存储CSharpSDK，比官方版本更新</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Qiniu qinjin fengrui</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="9.0.1" />
+    </dependencies>
+  </metadata>
+</package>
